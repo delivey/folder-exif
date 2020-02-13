@@ -2,7 +2,7 @@
 Gets the EXIF data for all files inside a folder.
 
 Requirements:
-Atleast Python 3.7
+Atleast Python 3.7, 
 Python libraries: os, exifread
 
 How to use:

@@ -1,6 +1,9 @@
 # folder-exif
 Gets the EXIF data for all files inside a folder.
 
+Very fast:
+100 files were scanned & logged in 2.07959 seconds (your results may vary)
+
 Requirements:
 Atleast Python 3.7, 
 Python libraries: os, exifread

@@ -2,7 +2,7 @@
 Gets the EXIF data for all files inside a folder.
 
 Very fast:
-100 files were scanned & logged in 2.07959 seconds (your results may vary)
+100 files were scanned & logged in 1.304841 seconds (your results may vary)
 
 Requirements:
 Atleast Python 3.7, 

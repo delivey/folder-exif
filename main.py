@@ -1,8 +1,7 @@
 import exifread as er
 import os
 
-folder = input("""What directory is your folder located in? e.g: D:/Exif/Folder/
-""")
+folder = input("What directory is your folder located in? e.g: D:/Exif/Folder/ \n")
 file_list = os.listdir(folder)
 
 for file in file_list:
